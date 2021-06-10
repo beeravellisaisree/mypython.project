@@ -1,1 +1,1 @@
-# mypython.project
+# gamesproject.py
